@@ -1,1 +1,1 @@
-# python_learning
+这个是zzs同学的python学习项目，目前我正在读4年级   
